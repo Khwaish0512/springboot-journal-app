@@ -28,13 +28,14 @@ This project allows users to **create, read, update, and delete journal entries*
 ---
 
 ## Project Structure
+```
 com.example.journal
-├── model/ → JournalEntry.java
-├── repository/ → JournalRepository.java
+├── model/ → JournalEntry.java 
+├── repository/ → JournalRepository.java 
 ├── service/ → JournalService.java
 ├── controller/ → JournalController.java
 └── JournalAppApplication.java
-
+```
 
 ---
 
